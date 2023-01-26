@@ -1,3 +1,3 @@
-# programmable-computer
+# Programmable 4-bit Computer
 
 This project consists of a 4-bit programmable computer with instructions load, store, add, sub. The computer was made using logical circuits in the simulator Logisim. To view the project, it will be necessary to download Logisim and open the file through that application. Using gates, we implement 8 slots of RAM (4 bits) and a basic CPU containing 2 general purpose registers, PC, IR, ALU, Sequencer, MAR, MBR. The computer can be programmed by directly entering into RAM the OP code, source and destination registers of the instructions. A digital display is provided to display the result of instructions and programs.
